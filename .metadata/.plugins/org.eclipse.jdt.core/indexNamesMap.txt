@@ -1,0 +1,3 @@
+INDEX VERSION 1.134
+file:/C:/Users/10834363/Downloads/Code/Eclipse/Reliance_Jewels_Hybrid/.metadata/.plugins/org.eclipse.jdt.core/1865797976.index
+meta_index
